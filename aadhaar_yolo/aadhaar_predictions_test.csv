@@ -1,0 +1,14 @@
+image_name,aadhaar_number,confidence,status
+adhar_79.jpg,"=""493483480085""",0.745,SUCCESS
+aman jadhaw_95.jpg,"=""585675383135""",0.766,SUCCESS
+matib tarique_74.jpg,"=""249423151935""",0.405,SUCCESS
+PP_72.jpeg,"=""584269246327""",0.759,SUCCESS
+PP_76.jpeg,"=""815094749631""",0.880,SUCCESS
+rashtrapal meshram_58.jpg,not found,0.000,FAILED
+rupesh madakwar_24.jpg,"=""423769020590""",0.859,SUCCESS
+sagarkirpan_67.jpg,"=""736121037824""",0.782,SUCCESS
+sagarkirpan_73.jpg,"=""736121037824""",0.782,SUCCESS
+sanjay pangulkar_37.jpg,"=""259627971581""",0.611,SUCCESS
+sheikh aman_44.jpg,"=""484380825606""",0.687,SUCCESS
+shubham bhaimare_58.jpg,"=""722000739310""",0.897,SUCCESS
+_72.jpg,"=""676929940415""",0.694,SUCCESS
